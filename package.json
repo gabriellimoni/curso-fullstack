@@ -1,0 +1,13 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Limoni",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "entities",
+    "backend/api",
+    "frontend"
+  ]
+}
