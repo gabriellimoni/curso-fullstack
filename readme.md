@@ -14,3 +14,7 @@ Vai haver dois papéis de usuário: Admin e Convencional. O Admin vai poder real
 1. Next-Auth + Auth0 para trabalhar autenticação
 1. (Bônus) Bunny.net para fazer o stream dos vídeos
 1. (Bônus) Pagar.me para fazer integração de pagamentos
+
+## Versões
+
+- Node: 20
